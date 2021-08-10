@@ -1,6 +1,7 @@
 # todoapp-django-vue
 # todovueapp
 # runs on django backend:
+  # install requirements
   # python manage.py make migration
   # python manage.py createsuperuser
   # python manage.py runserver
